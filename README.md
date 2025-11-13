@@ -14,3 +14,4 @@ Simple Notes Taking App with:
 From project root:
 ```bash
 docker-compose up --build
+ hiiiii
